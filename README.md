@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Venkatesh Shivandi**, a passionate Data Scientist with over 2 years of experience in machine learning, AI, and data analytics. I specialize in A/B testing, predictive modeling, and AI-driven optimization, with a proven track record of building scalable AI solutions and deploying models across various industries including finance, insurance, and supply chain management.
+I'm **Venkatesh Shivandi**, a passionate Data Scientist with over 2 years of experience in machine learning, AI, and data analytics. I specialize in building predictive models, and AI-driven optimization, with a proven track record of building scalable AI solutions and deploying models across various industries including finance, insurance, and supply chain management.
 
 ### 🔭 I’m currently working on
 - **Data Analysis for Allagash Brewing Company**: Analyzing sales data to identify trends and forecast future sales.
@@ -18,7 +18,7 @@ I'm **Venkatesh Shivandi**, a passionate Data Scientist with over 2 years of exp
 - Exploring new methodologies in AI-driven optimization.
 
 ### 💬 Ask me about
-- Machine Learning, AI, and Data Analytics.
+- How can we leverage data to take business decisions.
 - Tips on integrating AI solutions into business processes.
 
 ### 📫 How to reach me
